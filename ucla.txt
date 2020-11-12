@@ -1,0 +1,523 @@
+$ ls -a -l -R
+total 2505128
+drwxr-xr-x@ 18  staff         576 Jun 26 09:10 ./
+drwxr-xr-x@ 72  staff        2304 Aug 26 13:50 ../
+-rw-r--r--@  1  staff       18436 Nov 12 08:38 .DS_Store
+drwxr-xr-x@ 41  staff        1312 Sep 18 20:45 3420 photos/
+drwxr-xr-x@ 13  staff         416 Sep 18 20:46 ASS Notes/
+drwxr-xr-x@  9  staff         288 Sep 18 20:46 ATS reports/
+-rw-------@  1  staff     3871956 Sep 21  2019 Cerf and Naylor - 1972 - Storage Considerations in Store-and-Forward Messag.pdf
+drwxr-xr-x@  5  staff         160 Sep 18 21:01 Kleinrock - dissertation proposal/
+drwxr-xr-x@  6  staff         192 Sep 18 20:47 NMC reports/
+drwxr-xr-x@ 15  staff         480 Sep 18 20:45 Network Measurement Notes/
+drwxr-xr-x@ 20  staff         640 Sep 18 21:01 SPADE/
+-rw-------@  1  staff     2358544 Sep 21  2019 UCLA ARPA proposal 1965.pdf
+-rw-------@  1  staff  1264924044 Sep 21  2019 Video Tape Memories 2.mp4
+drwxr-xr-x@ 11  staff         352 Sep 18 20:45 campus maps historic/
+drwxr-xr-x@  5  staff         160 Sep 18 21:01 daily bruin/
+drwxr-xr-x@ 35  staff        1120 Sep 18 21:01 imp log/
+drwxr-xr-x@ 33  staff        1056 Sep 18 20:45 ucla photos/
+drwxr-xr-x@ 13  staff         416 Sep 18 20:45 ucla-anxiety/
+
+./3420 photos:
+total 309480
+drwxr-xr-x@ 41  staff      1312 Sep 18 20:45 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-r--r--@  1  staff     10244 Jun  6 08:49 .DS_Store
+-rw-rw-rw-@  1  staff   1523574 Jan 27  2010 AnitaUCLA3a.bmp
+-rw-rw-rw-@  1  staff   1538894 Jan 27  2010 AnitaUCLA3b.bmp
+-rw-rw-rw-@  1  staff   1529142 Jan 27  2010 AnitaUCLA3c.bmp
+-rw-rw-rw-@  1  staff   1526246 Jan 27  2010 AnitaUCLA3d-2.bmp
+-rw-rw-rw-@  1  staff   1526246 Jan 27  2010 AnitaUCLA3d.bmp
+-rw-rw-rw-@  1  staff   1551894 Jan 27  2010 AnitaUCLA3e-2.bmp
+-rw-r--r--@  1  staff     59894 Oct 18  2019 AnitaUCLA3e.jpeg
+-rw-rw-rw-@  1  staff   1522614 Jan 27  2010 AnitaUCLA3f-2.bmp
+-rw-rw-rw-@  1  staff   1522614 Jan 27  2010 AnitaUCLA3f.bmp
+-rw-r--r--@  1  staff    401267 Oct 18  2019 AriSlide.jpeg
+-rw-rw-rw-@  1  staff   3985230 Jan 27  2010 UCLAAnitaJon300.bmp
+-rw-rw-rw-@  1  staff   8513046 Jan 27  2010 UCLALab300.bmp
+-rw-rw-rw-@  1  staff  13758198 Jan 27  2010 UCLA_3from78_300.bmp
+-rw-r--r--@  1  staff   4023414 Oct 18  2019 UCLA_3from_74a_300.jpeg
+-rw-r--r--@  1  staff    321513 Oct 18  2019 UCLA_3from_74b_300 (1).jpeg
+-rw-rw-rw-@  1  staff  13432230 Jan 27  2010 UCLA_3from_74b_300.bmp
+-rw-r--r--@  1  staff    413738 Oct 18  2019 UCLA_3from_74b_300.jpeg
+-rw-rw-rw-@  1  staff  13469862 Jan 27  2010 UCLA_3from_74c_300 (1).bmp
+-rw-rw-rw-@  1  staff  13469862 Jan 27  2010 UCLA_3from_74c_300.bmp
+-rw-r--r--@  1  staff   4149254 Oct 18  2019 UCLA_3from_74d_300.jpeg
+-rw-rw-rw-@  1  staff  13723134 Jan 27  2010 UCLA_3from_74e_300.bmp
+-rw-r--r--@  1  staff   4872918 Oct 18  2019 V2TA70.jpeg
+-rw-rw-rw-@  1  staff   5017014 Feb 11  2010 V2TA72.bmp
+-rw-rw-rw-@  1  staff   4942134 Feb 11  2010 V2TA74.bmp
+-rw-rw-rw-@  1  staff   4785462 Feb 11  2010 V2TA76-2.bmp
+-rw-r--r--@  1  staff   4785462 Oct 18  2019 V2TA76.jpeg
+-rw-rw-rw-@  1  staff   5209398 Feb 11  2010 V2TA78-2.bmp
+-rw-r--r--@  1  staff    588845 Oct 18  2019 V2TA78.jpeg
+-rw-rw-rw-@  1  staff   4759734 Feb 11  2010 V2TA7A.bmp
+-rw-r--r--@  1  staff   5287158 Oct 18  2019 V2TA7C.jpeg
+-rw-rw-rw-@  1  staff   4866102 Feb 11  2010 V2TA7E.bmp
+-rw-r--r--@  1  staff    109414 Oct 18  2019 uclaLab1969 (1).jpeg
+-rw-rw-rw-@  1  staff   4000806 Jan 27  2010 uclaLab1969.bmp
+-rw-r--r--@  1  staff   4000806 Oct 18  2019 uclaLab1969.jpeg
+-rw-r--r--@  1  staff    626094 Oct 18  2019 ucla_JP_ALC (1).jpeg
+-rw-r--r--@  1  staff    651798 Oct 18  2019 ucla_JP_ALC (2).jpeg
+-rw-rw-rw-@  1  staff   1781526 Jan 27  2010 ucla_JP_ALC.bmp
+-rw-r--r--@  1  staff    127758 Oct 18  2019 ucla_JP_ALC.jpeg
+
+./ASS Notes:
+total 63872
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-------   1  staff   2833401 Sep 21  2019 .ASS_note3_pg6.tiff-ovGg
+-rw-------   1  staff   9116454 Sep 21  2019 .ASS_note4_pg1.tiff-laHi
+-rw-------   1  staff  19200780 Sep 21  2019 .ASS_note8_pg3.tiff-l859
+drwxr-xr-x@  6  staff       192 Sep 18 21:02 ASS_Note2/
+drwxr-xr-x@ 10  staff       320 Sep 18 21:02 ASS_Note3/
+drwxr-xr-x@ 14  staff       448 Sep 18 21:02 ASS_Note4/
+drwxr-xr-x@  7  staff       224 Sep 18 21:02 ASS_Note5/
+drwxr-xr-x@  6  staff       192 Sep 18 21:03 ASS_Note6/
+drwxr-xr-x@ 10  staff       320 Sep 18 21:03 ASS_Note7/
+drwxr-xr-x@ 16  staff       512 Sep 18 21:02 ASS_Note8/
+drwxr-xr-x@  9  staff       288 Sep 18 21:03 ASS_Note9/
+
+./ASS Notes/ASS_Note2:
+total 119040
+drwxr-xr-x@  6  staff       192 Sep 18 21:02 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------   1  staff    972451 Sep 21  2019 ASS_Note2.pdf
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note2_pg1.tiff
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note2_pg2.tiff
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note2_pg3.tiff
+
+./ASS Notes/ASS_Note3:
+total 277504
+drwxr-xr-x@ 10  staff       320 Sep 18 21:02 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------@  1  staff   1760243 Sep 21  2019 ASS_Note3.pdf
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note3_pg1.tiff
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note3_pg2.tiff
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note3_pg3.tiff
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note3_pg4.tiff
+-rw-------@  1  staff  19693864 Sep 21  2019 ASS_note3_pg5.tiff
+-rw-------@  1  staff  19779656 Sep 21  2019 ASS_note3_pg6.tiff
+-rw-------@  1  staff  19779656 Sep 21  2019 ASS_note3_pg7.tiff
+
+./ASS Notes/ASS_Note4:
+total 437760
+drwxr-xr-x@ 14  staff       448 Sep 18 21:02 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------@  1  staff   3340015 Sep 21  2019 ASS_Note4.pdf
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg1.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg10.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg11.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg2.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg3.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg4.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg5.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg6.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg7.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg8.tiff
+-rw-------@  1  staff  19725584 Sep 21  2019 ASS_note4_pg9.tiff
+
+./ASS Notes/ASS_Note5:
+total 157952
+drwxr-xr-x@  7  staff       224 Sep 18 21:02 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------   1  staff    873585 Sep 21  2019 ASS_Note5.pdf
+-rw-------@  1  staff  19795616 Sep 21  2019 ASS_note5_pg1.tiff
+-rw-------@  1  staff  19795616 Sep 21  2019 ASS_note5_pg2.tiff
+-rw-------@  1  staff  19795616 Sep 21  2019 ASS_note5_pg3.tiff
+-rw-------@  1  staff  19795616 Sep 21  2019 ASS_note5_pg4.tiff
+
+./ASS Notes/ASS_Note6:
+total 119040
+drwxr-xr-x@  6  staff       192 Sep 18 21:03 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------   1  staff    961644 Sep 21  2019 ASS_Note6.pdf
+-rw-------@  1  staff  19624192 Sep 21  2019 ASS_note6_pg1.tiff
+-rw-------@  1  staff  19624192 Sep 21  2019 ASS_note6_pg2.tiff
+-rw-------@  1  staff  19624192 Sep 21  2019 ASS_note6_pg3.tiff
+
+./ASS Notes/ASS_Note7:
+total 162816
+drwxr-xr-x@ 10  staff       320 Sep 18 21:03 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------@  1  staff   1621093 Sep 21  2019 ASS_Note7.pdf
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg1.tiff
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg2.tiff
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg3.tiff
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg4.tiff
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg5.tiff
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg6.tiff
+-rw-------@  1  staff  11161094 Sep 21  2019 ASS_note7_pg7.tiff
+
+./ASS Notes/ASS_Note8:
+total 515840
+drwxr-xr-x@ 16  staff       512 Sep 18 21:02 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------@  1  staff   3672504 Sep 21  2019 ASS_Note8.pdf
+-rw-------@  1  staff  19748136 Sep 21  2019 ASS_note8_pg1.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg10.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg11.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg12.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg13.tiff
+-rw-------@  1  staff  19748136 Sep 21  2019 ASS_note8_pg2.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg3.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg4.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg5.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg6.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg7.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg8.tiff
+-rw-------@  1  staff  19849880 Sep 21  2019 ASS_note8_pg9.tiff
+
+./ASS Notes/ASS_Note9:
+total 211840
+drwxr-xr-x@  9  staff       288 Sep 18 21:03 ./
+drwxr-xr-x@ 13  staff       416 Sep 18 20:46 ../
+-rw-------@  1  staff   1079990 Sep 21  2019 ASS_Note9.pdf
+-rw-------@  1  staff  17715310 Sep 21  2019 ASS_note9_pg1.tiff
+-rw-------@  1  staff  17715310 Sep 21  2019 ASS_note9_pg2.tiff
+-rw-------@  1  staff  17715310 Sep 21  2019 ASS_note9_pg3.tiff
+-rw-------@  1  staff  17715310 Sep 21  2019 ASS_note9_pg4.tiff
+-rw-------@  1  staff  17715310 Sep 21  2019 ASS_note9_pg5.tiff
+-rw-------@  1  staff  17715310 Sep 21  2019 ASS_note9_pg6.tiff
+
+./ATS reports:
+total 551648
+drwxr-xr-x@  9  staff        288 Sep 18 20:46 ./
+drwxr-xr-x@ 18  staff        576 Jun 26 09:10 ../
+-rw-r--r--@  1  staff   11263478 Jun 26 08:48 ADA161567 lists teleprocessing reports.pdf
+-rw-r--r--@  1  staff   93009765 Jun 26 08:51 ATS annual 1976a039018.pdf
+-rw-r--r--@  1  staff    6994969 Jun 26 08:55 ats 84 a161260.pdf
+-rw-r--r--@  1  staff    7039901 Jun 26 08:55 ats annual 82 a133554.pdf
+-rw-r--r--@  1  staff  141738463 Jun 26 08:55 ats june 78 a077404.pdf
+-rw-r--r--@  1  staff    6083594 Jun 26 08:53 ats sept 79a081938.pdf
+-rw-r--r--@  1  staff   16211823 Jun 26 09:09 ucla security diss ocr 800105.pdf
+
+./Kleinrock - dissertation proposal:
+total 27008
+drwxr-xr-x@  5  staff      160 Sep 18 21:01 ./
+drwxr-xr-x@ 18  staff      576 Jun 26 09:10 ../
+-rw-------@  1  staff  3796322 Sep 21  2019 part1.pdf
+-rw-------@  1  staff  3241183 Sep 21  2019 part2.pdf
+-rw-------@  1  staff  4438177 Sep 21  2019 part3.pdf
+
+./NMC reports:
+total 14592
+drwxr-xr-x@  6  staff      192 Sep 18 20:47 ./
+drwxr-xr-x@ 18  staff      576 Jun 26 09:10 ../
+drwxr-xr-x@ 25  staff      800 Sep 18 21:03 1970 august semiannual/
+-rw-------@  1  staff  4718467 Sep 21  2019 1970 feb semiannual.pdf
+drwxr-xr-x@ 14  staff      448 Sep 18 21:03 1971 june semiannual/
+-rw-------@  1  staff  1121396 Sep 21  2019 1973 dec final technical.pdf
+
+./NMC reports/1970 august semiannual:
+total 68640
+drwxr-xr-x@ 25  staff      800 Sep 18 21:03 ./
+drwxr-xr-x@  6  staff      192 Sep 18 20:47 ../
+-rw-------@  1  staff  1051795 Sep 21  2019 2015-11-30 19.28.30.jpg
+-rw-------@  1  staff  1192820 Sep 21  2019 2015-11-30 19.28.34.jpg
+-rw-------@  1  staff  1513070 Sep 21  2019 2015-11-30 19.28.41.jpg
+-rw-------@  1  staff  1464820 Sep 21  2019 2015-11-30 19.28.50.jpg
+-rw-------@  1  staff  1627627 Sep 21  2019 2015-11-30 19.28.52.jpg
+-rw-------@  1  staff  1776326 Sep 21  2019 2015-11-30 19.28.56.jpg
+-rw-------@  1  staff  1628962 Sep 21  2019 2015-11-30 19.28.57.jpg
+-rw-------@  1  staff  1696109 Sep 21  2019 2015-11-30 19.29.02.jpg
+-rw-------@  1  staff  1273720 Sep 21  2019 2015-11-30 19.29.04.jpg
+-rw-------   1  staff  1011056 Sep 21  2019 2015-11-30 19.29.09.jpg
+-rw-------@  1  staff  1387633 Sep 21  2019 2015-11-30 19.29.11.jpg
+-rw-------@  1  staff  1622461 Sep 21  2019 2015-11-30 19.29.15.jpg
+-rw-------@  1  staff  1514119 Sep 21  2019 2015-11-30 19.29.18.jpg
+-rw-------@  1  staff  1458274 Sep 21  2019 2015-11-30 19.29.22.jpg
+-rw-------@  1  staff  1311138 Sep 21  2019 2015-11-30 19.29.24.jpg
+-rw-------@  1  staff  1356724 Sep 21  2019 2015-11-30 19.29.32.jpg
+-rw-------@  1  staff  1163981 Sep 21  2019 2015-11-30 19.29.37.jpg
+-rw-------   1  staff  1024581 Sep 21  2019 2015-11-30 19.29.42.jpg
+-rw-------@  1  staff  1316125 Sep 21  2019 2015-11-30 19.29.44.jpg
+-rw-------@  1  staff  1522305 Sep 21  2019 2015-11-30 19.29.53.jpg
+-rw-------@  1  staff  1161509 Sep 21  2019 2015-11-30 19.29.56.jpg
+-rw-------@  1  staff  1362457 Sep 21  2019 2015-11-30 19.29.58.jpg
+-rw-------@  1  staff  1360493 Sep 21  2019 2015-11-30 19.30.02.jpg
+
+./NMC reports/1971 june semiannual:
+total 37448
+drwxr-xr-x@ 14  staff      448 Sep 18 21:03 ./
+drwxr-xr-x@  6  staff      192 Sep 18 20:47 ../
+-rw-------@  1  staff  1378527 Sep 21  2019 2015-11-30 19.27.30.jpg
+-rw-------@  1  staff  1672331 Sep 21  2019 2015-11-30 19.27.33.jpg
+-rw-------@  1  staff  1653652 Sep 21  2019 2015-11-30 19.27.37.jpg
+-rw-------@  1  staff  1587739 Sep 21  2019 2015-11-30 19.27.40.jpg
+-rw-------@  1  staff  1730963 Sep 21  2019 2015-11-30 19.27.44.jpg
+-rw-------@  1  staff  1493715 Sep 21  2019 2015-11-30 19.27.47.jpg
+-rw-------@  1  staff  1700444 Sep 21  2019 2015-11-30 19.27.50.jpg
+-rw-------@  1  staff  1352820 Sep 21  2019 2015-11-30 19.27.53.jpg
+-rw-------@  1  staff  1551682 Sep 21  2019 2015-11-30 19.27.56.jpg
+-rw-------@  1  staff  1439704 Sep 21  2019 2015-11-30 19.28.00.jpg
+-rw-------@  1  staff  1087724 Sep 21  2019 2015-11-30 19.28.03.jpg
+-rw-------@  1  staff  1232456 Sep 21  2019 2015-11-30 19.28.26.jpg
+
+./Network Measurement Notes:
+total 49296
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-r--r--@  1  staff      6148 Jun 24 09:50 .DS_Store
+-rw-------   1  staff  24694516 Sep 21  2019 .Misc_NW_Note9_pg3.tiff-FDSI
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 BBN_Cnctd_ARPA/
+drwxr-xr-x@  6  staff       192 Sep 18 21:02 Misc_NW_Note1/
+drwxr-xr-x@ 11  staff       352 Sep 18 21:02 Misc_NW_Note10/
+drwxr-xr-x@ 16  staff       512 Sep 18 21:02 Misc_NW_Note14/
+drwxr-xr-x@  7  staff       224 Sep 18 21:02 Misc_NW_Note16/
+drwxr-xr-x@  8  staff       256 Sep 18 21:02 Misc_NW_Note17/
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 Misc_NW_Note18/
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 Misc_NW_Note19/
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 Misc_NW_Note2/
+drwxr-xr-x@  6  staff       192 Sep 18 21:02 Misc_NW_Note20/
+drwxr-xr-x@  9  staff       288 Sep 18 21:02 Misc_NW_Note9/
+
+./Network Measurement Notes/BBN_Cnctd_ARPA:
+total 77952
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff  39478278 Sep 21  2019 BBN_Cnctd_ARPA.tiff
+
+./Network Measurement Notes/Misc_NW_Note1:
+total 236032
+drwxr-xr-x@  6  staff       192 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff   1091059 Sep 21  2019 Misc_NW_Note1.pdf
+-rw-------@  1  staff  39478278 Sep 21  2019 Misc_NW_Note1_pg1.tiff
+-rw-------@  1  staff  39478278 Sep 21  2019 Misc_NW_Note1_pg2.tiff
+-rw-------@  1  staff  39478278 Sep 21  2019 Misc_NW_Note1_pg3.tiff
+
+./Network Measurement Notes/Misc_NW_Note10:
+total 629888
+drwxr-xr-x@ 11  staff       352 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff   2173508 Sep 21  2019 Misc_NW_Note10.pdf
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg1.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg2.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg3.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg4.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg5.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg6.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg7.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note10_pg8.tiff
+
+./Network Measurement Notes/Misc_NW_Note14:
+total 1023744
+drwxr-xr-x@ 16  staff       512 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff   4637146 Sep 21  2019 Misc_NW_Note14.pdf
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg1.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg10.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg11.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg12.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg13.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg2.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg3.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg4.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg5.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg6.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg7.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg8.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note14_pg9.tiff
+
+./Network Measurement Notes/Misc_NW_Note16:
+total 316032
+drwxr-xr-x@  7  staff       224 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff   1797020 Sep 21  2019 Misc_NW_Note16.pdf
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note16_pg1.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note16_pg2.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note16_pg3.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note16_pg4.tiff
+
+./Network Measurement Notes/Misc_NW_Note17:
+total 391808
+drwxr-xr-x@  8  staff       256 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------   1  staff   1017642 Sep 21  2019 Misc_NW_Note17.pdf
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note17_pg1.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note17_pg2.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note17_pg3.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note17_pg4.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note17_pg5.tiff
+
+./Network Measurement Notes/Misc_NW_Note18:
+total 77952
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note18.tiff
+
+./Network Measurement Notes/Misc_NW_Note19:
+total 77952
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note19.tiff
+
+./Network Measurement Notes/Misc_NW_Note2:
+total 77952
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff  39478278 Sep 21  2019 Misc_NW_Note2.tiff
+
+./Network Measurement Notes/Misc_NW_Note20:
+total 235776
+drwxr-xr-x@  6  staff       192 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------   1  staff    937368 Sep 21  2019 Misc_NW_Note20.pdf
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note20_pg1.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note20_pg2.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note20_pg3.tiff
+
+./Network Measurement Notes/Misc_NW_Note9:
+total 471936
+drwxr-xr-x@  9  staff       288 Sep 18 21:02 ./
+drwxr-xr-x@ 15  staff       480 Sep 18 20:45 ../
+-rw-------@  1  staff   1784408 Sep 21  2019 Misc_NW_Note9.pdf
+-rw-------@  1  staff  39478278 Sep 21  2019 Misc_NW_Note9_pg1.tiff
+-rw-------@  1  staff  39478278 Sep 21  2019 Misc_NW_Note9_pg2.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note9_pg3.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note9_pg4.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note9_pg5.tiff
+-rw-------@  1  staff  39261382 Sep 21  2019 Misc_NW_Note9_pg6.tiff
+
+./SPADE:
+total 246416
+drwxr-xr-x@ 20  staff       640 Sep 18 21:01 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-------@  1  staff  16287863 Sep 21  2019 spade 001.pdf
+-rw-------@  1  staff   4557625 Sep 21  2019 spade 020.pdf
+-rw-------@  1  staff   2363548 Sep 21  2019 spade 053.pdf
+-rw-------@  1  staff   4319535 Sep 21  2019 spade 063.pdf
+-rw-------@  1  staff  12884364 Sep 21  2019 spade 069.pdf
+-rw-------@  1  staff   5386695 Sep 21  2019 spade 071.pdf
+-rw-------@  1  staff   4999114 Sep 21  2019 spade 076.pdf
+-rw-------@  1  staff   2640167 Sep 21  2019 spade 088.pdf
+-rw-------@  1  staff   3899677 Sep 21  2019 spade 094.pdf
+-rw-------@  1  staff   9493024 Sep 21  2019 spade 110.pdf
+-rw-------@  1  staff   4161895 Sep 21  2019 spade 116.pdf
+-rw-------@  1  staff  13785497 Sep 21  2019 spade 118.pdf
+-rw-------@  1  staff   2747955 Sep 21  2019 spade 141.pdf
+-rw-------@  1  staff   4563678 Sep 21  2019 spade 160.pdf
+-rw-------@  1  staff   4484227 Sep 21  2019 spade 176.pdf
+-rw-------@  1  staff   6522059 Sep 21  2019 spade 178.pdf
+-rw-------@  1  staff   4552104 Sep 21  2019 spade 180.pdf
+-rw-------@  1  staff   7999580 Sep 21  2019 spade 197.pdf
+
+./campus maps historic:
+total 108952
+drwxr-xr-x@ 11  staff       352 Sep 18 20:45 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-------@  1  staff   2153638 Sep 21  2019 1968_1.jpg
+-rw-------@  1  staff   2761378 Sep 21  2019 1968_2.jpg
+-rw-------@  1  staff  10859994 Sep 21  2019 Screen Shot 2019-07-31 at 13.30.36.png
+-rw-------@  1  staff  10964539 Sep 21  2019 Screen Shot 2019-07-31 at 13.31.32.png
+-rw-------@  1  staff   2816189 Sep 21  2019 Screen Shot 2019-07-31 at 13.31.54.png
+-rw-------@  1  staff   8271433 Sep 21  2019 Screen Shot 2019-07-31 at 13.32.31.png
+-rw-------@  1  staff  10732119 Sep 21  2019 Screen Shot 2019-07-31 at 13.32.41.png
+-rw-------@  1  staff    744290 Sep 21  2019 Screen Shot 2019-07-31 at 13.33.21.png
+-rw-------@  1  staff   2144031 Sep 21  2019 Seeing_UCLA_nd_2.jpg
+
+./daily bruin:
+total 2359680
+drwxr-xr-x@  5  staff        160 Sep 18 21:01 ./
+drwxr-xr-x@ 18  staff        576 Jun 26 09:10 ../
+-rw-------@  1  staff  460219329 Sep 21  2019 ucladailybruin50losa.pdf
+-rw-------@  1  staff  381868056 Sep 21  2019 ucladailybruin51losa.pdf
+-rw-------@  1  staff  351846002 Sep 21  2019 ucladailybruin52losa.pdf
+
+./imp log:
+total 487504
+drwxr-xr-x@ 35  staff      1120 Sep 18 21:01 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-------@  1  staff   1426197 Sep 21  2019 01-03-70.jpeg
+-rw-------@  1  staff   1532139 Sep 21  2019 01-16-70.jpeg
+-rw-------@  1  staff   1521956 Sep 21  2019 01-23-70.jpeg
+-rw-------@  1  staff   1496060 Sep 21  2019 03-04-70.jpeg
+-rw-------@  1  staff   1411107 Sep 21  2019 03-05-70.jpeg
+-rw-------@  1  staff   1308984 Sep 21  2019 03-10-70.jpeg
+-rw-------@  1  staff   1438647 Sep 21  2019 03-23-70.jpeg
+-rw-------@  1  staff   1509672 Sep 21  2019 03-26-70.jpeg
+-rw-------@  1  staff   1514522 Sep 21  2019 04-13-70.jpeg
+-rw-------@  1  staff   1547598 Sep 21  2019 04-14-70.jpeg
+-rw-------@  1  staff   1453704 Sep 21  2019 10-30-69.jpeg
+-rw-------@  1  staff   1480691 Sep 21  2019 11-18-69.jpeg
+-rw-------@  1  staff   1491460 Sep 21  2019 11-20-69.jpeg
+-rw-------@  1  staff   1477286 Sep 21  2019 11-24-69.jpeg
+-rw-------@  1  staff   1393610 Sep 21  2019 11-28-69.jpeg
+-rw-------@  1  staff   1490406 Sep 21  2019 12-13-69.jpeg
+-rw-------@  1  staff   1470180 Sep 21  2019 12-16-69.jpeg
+-rw-------@  1  staff  26519836 Sep 21  2019 Back.tif
+-rw-------@  1  staff  25689256 Sep 21  2019 Front.tif
+-rw-------@  1  staff  49622982 Sep 21  2019 FullTop.psd
+-rw-------@  1  staff  24376452 Sep 21  2019 FullTop.tif
+-rw-------@  1  staff   1785322 Sep 21  2019 THEentrysrc.jpeg
+-rw-------@  1  staff  12332392 Sep 21  2019 TranspRef1.tiff
+-rw-------@  1  staff  11809852 Sep 21  2019 TranspRef2.tiff
+-rw-------@  1  staff  14883616 Sep 21  2019 cardboardbacking.tiff
+-rw-------@  1  staff  25828232 Sep 21  2019 img173.tif
+-rw-------@  1  staff   1827725 Sep 21  2019 img174.jpeg
+-rw-------@  1  staff   1867846 Sep 21  2019 img175.jpeg
+-rw-------@  1  staff   1786539 Sep 21  2019 img176.jpeg
+-rw-------@  1  staff   1815100 Sep 21  2019 img177.jpeg
+-rw-------@  1  staff   1791817 Sep 21  2019 img178.jpeg
+-rw-------@  1  staff   1880279 Sep 21  2019 img179.jpeg
+-rw-------@  1  staff   1803569 Sep 21  2019 img180.jpeg
+
+./ucla photos:
+total 162752
+drwxr-xr-x@ 33  staff     1056 Sep 18 20:45 ./
+drwxr-xr-x@ 18  staff      576 Jun 26 09:10 ../
+-rw-r--r--@  1  staff    10244 Oct 29  2019 .DS_Store
+-rw-------@  1  staff  3403715 Sep 21  2019 uclalsc_uars100_102_002a.tif.jpg
+-rw-------@  1  staff  2890560 Sep 21  2019 uclalsc_uars100_104_005.tif.jpg
+-rw-------@  1  staff  2750076 Sep 21  2019 uclalsc_uars100_104_008a.tif.jpg
+-rw-------@  1  staff  3580934 Sep 21  2019 uclalsc_uars100_104_015a.tif.jpg
+-rw-------@  1  staff  2450310 Sep 21  2019 uclalsc_uars100_104_021a.tif.jpg
+-rw-------@  1  staff  1030304 Sep 21  2019 uclalsc_uars100_117_001a.tif.jpg
+-rw-------@  1  staff  1867036 Sep 21  2019 uclalsc_uars100_117_002a.tif.jpg
+-rw-------@  1  staff  3452704 Sep 21  2019 uclalsc_uars100_117_003.tif.jpg
+-rw-------@  1  staff  2991481 Sep 21  2019 uclalsc_uars100_120_002a.tif.jpg
+-rw-------@  1  staff  1286120 Sep 21  2019 uclalsc_uars100_1214_010a.tif.jpg
+-rw-------@  1  staff  4325741 Sep 21  2019 uclalsc_uars100_121_002a.tif.jpg
+-rw-------@  1  staff   887215 Sep 21  2019 uclalsc_uars100_171_005.tif.jpg
+-rw-------@  1  staff  1075770 Sep 21  2019 uclalsc_uars100_171_013.tif.jpg
+-rw-------@  1  staff   866937 Sep 21  2019 uclalsc_uars100_171_018a.tif.jpg
+-rw-------@  1  staff   907955 Sep 21  2019 uclalsc_uars100_171_030.tif.jpg
+-rw-------@  1  staff  2186244 Sep 21  2019 uclalsc_uars100_190_004a.tif.jpg
+-rw-------@  1  staff  2165544 Sep 21  2019 uclalsc_uars100_190_010a.tif.jpg
+-rw-------@  1  staff  2420319 Sep 21  2019 uclalsc_uars100_190_011a.tif.jpg
+-rw-r--r--@  1  staff  2723556 Sep 21  2019 uclalsc_uars100_192_002a_RS100.tif.jpg
+-rw-r--r--@  1  staff  2870580 Sep 21  2019 uclalsc_uars100_192_005a.tif.jpg
+-rw-------@  1  staff  3189585 Sep 21  2019 uclalsc_uars100_192_007a.tif.jpg
+-rw-------@  1  staff  2595890 Sep 21  2019 uclalsc_uars100_192_010a.tif.jpg
+-rw-------@  1  staff  2698448 Sep 21  2019 uclalsc_uars100_510_002a.tif.jpg
+-rw-------@  1  staff  2395858 Sep 21  2019 uclalsc_uars100_510_004a.tif.jpg
+-rw-------@  1  staff  2380134 Sep 21  2019 uclalsc_uars100_510_005a.tif.jpg
+-rw-------@  1  staff  2442997 Sep 21  2019 uclalsc_uars100_510_006a.tif.jpg
+-rw-------@  1  staff   663199 Sep 21  2019 uclalsc_uars100_582_003a.tif.jpg
+-rw-------@  1  staff  2520502 Sep 21  2019 uclalsc_uars100_582_016a.tif.jpg
+-rw-------@  1  staff  3401791 Sep 21  2019 uclalsc_uars100_591_002a.tif.jpg
+-rw-------@  1  staff   870831 Sep 21  2019 uclalsc_uars100_733_001a.tif.jpg
+
+./ucla-anxiety:
+total 65232
+drwxr-xr-x@ 13  staff       416 Sep 18 20:45 ./
+drwxr-xr-x@ 18  staff       576 Jun 26 09:10 ../
+-rw-r--r--@  1  staff      6148 Jun  6 08:59 .DS_Store
+-rw-r--r--@  1  staff  10645457 Apr  6  2020 Screen Shot 2020-04-06 at 06.17.43.png
+-rw-r--r--@  1  staff   9467099 Apr  6  2020 Screen Shot 2020-04-06 at 06.18.28.png
+-rw-r--r--@  1  staff   9452716 Apr  6  2020 Screen Shot 2020-04-06 at 06.18.42.png
+-rw-r--r--@  1  staff    707986 Jun  6 08:48 boelterdraft.jpg
+-rw-r--r--@  1  staff     68000 Jun  6 08:48 boeltermap.jpg
+-rwxr--r--@  1  staff   1133229 Sep 21  2019 kahn naylor.pdf*
+drwxr-xr-x@  3  staff        96 Sep 18 21:02 lasr lab/
+-rw-r--r--@  1  staff     13484 Mar 31  2020 ucla steam tunnels 1988.gif
+-rw-r--r--@  1  staff     73451 Apr  6  2020 ucla-prestige-library-information-science.jpg
+-rwxr--r--@  1  staff   1816242 Sep 21  2019 x1PqjSd.jpg*
+
+./ucla-anxiety/lasr lab:
+total 3936
+drwxr-xr-x@  3  staff       96 Sep 18 21:02 ./
+drwxr-xr-x@ 13  staff      416 Sep 18 20:45 ../
+-rwxr--r--@  1  staff  2013854 Sep 21  2019 Screen Shot 2019-09-14 at 15.46.38.png*
